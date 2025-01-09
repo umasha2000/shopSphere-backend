@@ -1,2 +1,2 @@
-# moja-backend
-Moja is a e-commerce platform
+# shopSphere-backend
+ShopSphere is a e-commerce platform
